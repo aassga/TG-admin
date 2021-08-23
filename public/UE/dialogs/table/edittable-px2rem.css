@@ -1,0 +1,84 @@
+body{
+    overflow: hidden;
+    width: 5.4rem;
+}
+.wrapper {
+    margin: 0.1rem auto 0;
+    font-size: 0.12rem;
+    overflow: hidden;
+    width: 5.2rem;
+    height: 3.15rem;
+}
+
+.clear {
+    clear: both;
+}
+
+.wrapper .left {
+    float: left;
+    margin-left: 0.1rem;;
+}
+
+.wrapper .right {
+    float: right;
+    border-left: 0.02rem dotted #EDEDED;
+    padding-left: 0.15rem;
+}
+
+.section {
+    margin-bottom: 0.15rem;
+    width: 2.4rem;
+    overflow: hidden;
+}
+
+.section h3 {
+    font-weight: bold;
+    padding: 0.05rem 0;
+    margin-bottom: 0.1rem;
+    border-bottom: 1px solid #EDEDED;
+    font-size: 0.12rem;
+}
+
+.section ul {
+    list-style: none;
+    overflow: hidden;
+    clear: both;
+
+}
+
+.section li {
+    float: left;
+    width: 1.2rem;;
+}
+
+.section .tone {
+    width: 0.8rem;;
+}
+
+.section .preview {
+    width: 2.2rem;
+}
+
+.section .preview table {
+    text-align: center;
+    vertical-align: middle;
+    color: #666;
+}
+
+.section .preview caption {
+    font-weight: bold;
+}
+
+.section .preview td {
+    border-width: 1px;
+    border-style: solid;
+    height: 0.22rem;
+}
+
+.section .preview th {
+    border-style: solid;
+    border-color: #DDD;
+    border-width: 0.02rem 1px 1px 1px;
+    height: 0.22rem;
+    background-color: #F7F7F7;
+}

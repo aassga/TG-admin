@@ -1,0 +1,104 @@
+.side-menu-wrapper{
+  user-select: none;
+  overflow: none;
+  .ivu-menu{
+    background: #222324;
+  }
+  .ivu-menu-item{
+    font-size: 1rem;
+    padding: 14px 10px !important;
+    padding-left: 18px !important;
+    border-bottom: 1px solid rgba(112, 112, 112, 0.1);
+    white-space: nowrap;
+
+  }
+  .menu-collapsed{
+    padding-top: 10px;
+
+    .ivu-dropdown{
+      width: 100%;
+      .ivu-dropdown-rel a{
+        width: 100%;
+      }
+    }
+    .ivu-tooltip{
+      width: 100%;
+      .ivu-tooltip-rel{
+        width: 100%;
+      }
+      .ivu-tooltip-popper .ivu-tooltip-content{
+        .ivu-tooltip-arrow{
+          border-right-color: #fff;
+        }
+        .ivu-tooltip-inner{
+          background: #fff;
+          color: #495060;
+        }
+      }
+    }
+  }
+  a.drop-menu-a{
+    display: inline-block;
+    padding: 6px 16px;
+    width: 100%;
+    text-align: center;
+    color: #495060;
+    &:hover{
+      /deep/i{
+        color: #ffffff!important;
+      }
+    }
+  }
+  // 这个不能删
+  a.drop-menu-a{
+    i{
+      color: #8e8e8e!important;
+    }
+  }
+  /deep/.ivu-menu-submenu{
+    border-bottom: 1px solid rgba(112, 112, 112, 0.1);
+  }
+  .ivu-menu-submenu-title{
+    font-size: 1rem;
+    padding: 14px 10px 14px 18px !important;
+    background: #222324!important;
+    i{
+      // color: #2d8cf0!important;
+      color: #8e8e8e!important;
+      &:hover{
+        color: #2d8cf0!important;
+      }
+   
+    }
+  }
+  /deep/.ivu-menu-opened{
+    /deep/ul{
+      text-indent: 8px;
+      /deep/li{
+        background: #181818!important;
+      }
+    }
+  }
+  // /deep/.ivu-menu-submenu.ivu-menu-item-active{
+  //   background: #fff !important;
+  //   /deep/.ivu-menu-submenu-title{
+  //     i{
+  //       color: #8E8E8E!important;
+  //     }
+  //   }
+  //   /deep/.ivu-menu{
+  //     .ivu-menu-item-active,.ivu-menu-item-selected{
+  //       color: #ffffff!important;
+  //     }
+  //   }
+  // }
+  .ivu-menu-light.ivu-menu-vertical .ivu-menu-item-active:not(.ivu-menu-submenu):after{
+    width: 4px;
+  }
+}
+.menu-title{
+  padding-left: 6px;
+}
+.ivu-layout-sider-children::-webkit-scrollbar {
+  width: 0;
+}

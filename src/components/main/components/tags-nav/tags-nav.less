@@ -1,0 +1,161 @@
+@import '../../../../styles/color.less';
+@active: #2D8CF0;
+@icon-close-border: #CECECE;
+
+.no-select {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.size {
+  width: 98%;
+  height: 100%;
+  height: 40px;
+  line-height: 40px;
+}
+
+.tags-nav {
+  position: relative;
+  border-bottom: 1px solid #dcdcdc;
+  // margin-left: 20px;
+  width: 100% !important;
+  z-index: 100;
+  background: white;
+  .no-select;
+  .size;
+  .close-con {
+    border-top: 1px solid #dcdcdc;
+    border-right: 1px  solid  #dcdcdc;
+    border-left: 1px  solid  #dcdcdc;
+    position: absolute;
+    right: 0;
+    top: 0;
+    height: 100%;
+    width: 32px;
+    background: #fff;
+    text-align: center;
+    z-index: 10;
+    .ivu-btn-small{padding:0 0 2px 0;}
+  }
+  .btn-con {
+    //导航条左按钮的边框
+ 
+    border-bottom: none;
+    border-left: 1px solid #dcdcdc;
+    border-top: 1px solid #dcdcdc;
+    position: absolute;
+    top: 0px;
+    height: 100%;
+    background: #fff;
+    padding-top: 3px;
+    z-index: 10;
+    button {
+      padding: 6px 4px;
+      line-height: 14px;
+      text-align: center;
+    }
+    &.left-btn {
+      left: 0px;
+    }
+    &.right-btn {
+      right: 32px;
+    }
+  }
+  .scroll-outer { 
+    position: absolute;
+    left: 0;
+    right: 61px;
+    top: 0;
+    bottom: 0;
+    box-shadow: none;
+    line-height: 36px !important;
+    .scroll-body {
+      padding: 1px 4px 0 0;
+      height: ~"calc(100% - 1px)";
+      display: inline-block;
+      position: absolute;
+      overflow: visible;
+      white-space: nowrap;
+      transition: left .3s ease;
+      // background: red;
+      .ivu-tag-dot-inner {
+        transition: background .2s ease;
+      }
+    }
+    /deep/.ivu-tag {
+      border-left:none;
+      padding: 0;
+      margin: 0;
+      width: 145px;
+      font-size: 1rem;
+      // font-size: 0.875rem;
+      font-weight: 549;
+      height: 40px;
+      line-height: 37px !important;
+      overflow: hidden;
+      /deep/.ivu-tag-text{
+        //修改字体的颜色
+        color:#444;
+        width: 120px;
+        overflow: hidden;
+        float: left !important;
+        height: 36px;
+        line-height: 40px;
+        font-weight: normal;
+      }
+      /deep/i{
+        float: right;
+        top: 12px!important;
+        right: 8px!important;
+      }
+    }
+    /deep/.ivu-tag:nth-child(1){
+      border-left:1px solid #dcdcdc;
+    }
+    /deep/.v2-tag-active {
+      // border-right: 1px solid #eaeaea;
+      border-top: 2px solid @active;
+      background: #fff;
+      overflow: hidden;
+      // font-size: 18px;
+      /deep/.ivu-tag-text{
+        color: @btnColor !important;
+        display: block;
+        width: 120px;
+        height: 36px;
+        line-height: 40px;
+        overflow: hidden;
+        float: left;
+      }
+      /deep/i{
+        display: block;
+        // width: 20px;
+        float: right;
+        top: 12px!important;
+        right: 8px!important;
+      }
+    }
+  }
+  .contextmenu {
+    position: absolute;
+    margin: 0;
+    padding: 5px 0;
+    background: #fff;
+    z-index: 100;
+    list-style-type: none;
+    border-radius: 4px;
+    box-shadow: 2px 2px 3px 0 rgba(0, 0, 0, .3);
+    li {
+      margin: 0;
+      padding: 5px 15px;
+      cursor: pointer;
+      &:hover {
+        background: #eee;
+      }
+    }
+  }
+}

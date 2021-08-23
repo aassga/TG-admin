@@ -1,0 +1,320 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1252" height="1532.585" viewBox="0 0 1252 1532.585">
+  <g id="佣金说明1119" transform="translate(-97 -206.639)">
+    <g id="组_1342" data-name="组 1342">
+      <path id="路径_378" data-name="路径 378" d="M693.606,0l16.4,16.4v317.42l-16.4,16.4H-517.6l-16.4-16.4V16.4L-517.6,0Z" transform="translate(636 1389)" fill="#6db4ff"/>
+      <g id="组_1327" data-name="组 1327" transform="translate(-705 -76)">
+        <g id="矩形_461" data-name="矩形 461" transform="translate(825 1482)" fill="#fff" stroke="#ebebeb" stroke-width="1">
+          <rect width="523" height="314" stroke="none"/>
+          <rect x="0.5" y="0.5" width="522" height="313" fill="none"/>
+        </g>
+        <g id="组_1315" data-name="组 1315" transform="translate(668.001 1221)">
+          <g id="组_7" data-name="组 7" transform="translate(170 274)">
+            <g id="组_5" data-name="组 5">
+              <rect id="矩形_1_拷贝_6" data-name="矩形 1 拷贝 6" width="496" height="40" fill="#f6f6f8"/>
+              <rect id="矩形_1_拷贝_19" data-name="矩形 1 拷贝 19" width="496" height="40" transform="translate(0 81)" fill="#f6f6f8" opacity="0.4"/>
+              <rect id="矩形_1_拷贝_20" data-name="矩形 1 拷贝 20" width="496" height="40" transform="translate(0 163)" fill="#f6f6f8" opacity="0.4"/>
+              <rect id="矩形_1_拷贝_20-2" data-name="矩形 1 拷贝 20" width="496" height="40" transform="translate(0 245)" fill="#f6f6f8" opacity="0.4"/>
+              <path id="矩形_1_拷贝_12" data-name="矩形 1 拷贝 12" d="M0,206v-1H496v1Zm0-40v-1H496v1Zm0-42v-1H496v1ZM0,83V82H496v1ZM0,42V41H496v1ZM0,1V0H496V1Z" transform="translate(0 80)" fill="#ebebeb"/>
+              <path id="矩形_1_拷贝_13" data-name="矩形 1 拷贝 13" d="M0,40V39H496v1ZM0,1V0H496V1Z" fill="#ebebeb"/>
+              <path id="矩形_1_拷贝_18" data-name="矩形 1 拷贝 18" d="M0,286.118V1H1V286.118ZM495.607,286V0h1V286Zm-165.334-.958V1h1V285.042Zm-164.939,0V1h1V285.042Z" fill="#ebebeb"/>
+            </g>
+            <g id="组_23" data-name="组 23" transform="translate(73.569 10.639)">
+              <text id="业绩等级" transform="translate(11 13)" fill="#666" font-size="12" font-family="PingFangSC, 萍方-简"><tspan x="-24" y="0">业绩等级</tspan></text>
+              <text id="团队业绩" transform="translate(175.515 13)" fill="#666" font-size="12" font-family="PingFangSC, 萍方-简"><tspan x="-24" y="0">团队业绩</tspan></text>
+              <text id="返佣比例" transform="translate(340.504 13)" fill="#666" font-size="12" font-family="PingFangSC, 萍方-简"><tspan x="-24" y="0">返佣比例</tspan></text>
+            </g>
+            <g id="组_6" data-name="组 6" transform="translate(81.438 50.639)">
+              <text id="_1" data-name="1" transform="translate(4 14)" fill="#666" font-size="12" font-family="PingFangSC, 萍方-简"><tspan x="-3.6" y="0">1</tspan></text>
+              <text id="_1000000.00" data-name="1000000.00" transform="translate(167.974 14)" fill="#666" font-size="12" font-family="PingFangSC, 萍方-简"><tspan x="-33.984" y="0">1000000.00</tspan></text>
+              <text id="每万返佣20" transform="translate(332.636 14)" fill="#666" font-size="12" font-family="PingFangSC, 萍方-简"><tspan x="-31.2" y="0">每万返佣20</tspan></text>
+            </g>
+            <g id="组_6-2" data-name="组 6" transform="translate(81.438 91.639)">
+              <text id="_2" data-name="2" transform="translate(4 14)" fill="#666" font-size="12" font-family="PingFangSC, 萍方-简"><tspan x="-3.6" y="0">2</tspan></text>
+              <text id="_2000000.00" data-name="2000000.00" transform="translate(167.974 14)" fill="#666" font-size="12" font-family="PingFangSC, 萍方-简"><tspan x="-33.984" y="0">2000000.00</tspan></text>
+              <text id="每万返佣30" transform="translate(332.636 14)" fill="#666" font-size="12" font-family="PingFangSC, 萍方-简"><tspan x="-31.2" y="0">每万返佣30</tspan></text>
+            </g>
+            <g id="组_6-3" data-name="组 6" transform="translate(81.438 132.639)">
+              <text id="_3" data-name="3" transform="translate(4 14)" fill="#666" font-size="12" font-family="PingFangSC, 萍方-简"><tspan x="-3.6" y="0">3</tspan></text>
+              <text id="_3000000.00" data-name="3000000.00" transform="translate(168.4 14)" fill="#666" font-size="12" font-family="PingFangSC, 萍方-简"><tspan x="-33.984" y="0">3000000.00</tspan></text>
+              <text id="每万返佣40" transform="translate(332.636 14)" fill="#666" font-size="12" font-family="PingFangSC, 萍方-简"><tspan x="-31.2" y="0">每万返佣40</tspan></text>
+            </g>
+            <g id="组_6-4" data-name="组 6" transform="translate(81.438 173.639)">
+              <text id="_4" data-name="4" transform="translate(4 14)" fill="#666" font-size="12" font-family="PingFangSC, 萍方-简"><tspan x="-3.6" y="0">4</tspan></text>
+              <text id="_4000000.00" data-name="4000000.00" transform="translate(168.4 14)" fill="#666" font-size="12" font-family="PingFangSC, 萍方-简"><tspan x="-33.984" y="0">4000000.00</tspan></text>
+              <text id="每万返佣50" transform="translate(332.636 14)" fill="#666" font-size="12" font-family="PingFangSC, 萍方-简"><tspan x="-31.2" y="0">每万返佣50</tspan></text>
+            </g>
+            <g id="组_6-5" data-name="组 6" transform="translate(81.438 214.639)">
+              <text id="_5" data-name="5" transform="translate(4 14)" fill="#666" font-size="12" font-family="PingFangSC, 萍方-简"><tspan x="-3.6" y="0">5</tspan></text>
+              <text id="_5000000.00" data-name="5000000.00" transform="translate(168.4 14)" fill="#666" font-size="12" font-family="PingFangSC, 萍方-简"><tspan x="-33.984" y="0">5000000.00</tspan></text>
+              <text id="每万返佣60" transform="translate(332.636 14)" fill="#666" font-size="12" font-family="PingFangSC, 萍方-简"><tspan x="-31.2" y="0">每万返佣60</tspan></text>
+            </g>
+            <g id="组_6-6" data-name="组 6" transform="translate(81.438 256.639)">
+              <text id="_6" data-name="6" transform="translate(4 14)" fill="#666" font-size="12" font-family="PingFangSC, 萍方-简"><tspan x="-3.6" y="0">6</tspan></text>
+              <text id="_6000000.00" data-name="6000000.00" transform="translate(168.4 14)" fill="#666" font-size="12" font-family="PingFangSC, 萍方-简"><tspan x="-33.984" y="0">6000000.00</tspan></text>
+              <text id="每万返佣80" transform="translate(332.636 14)" fill="#666" font-size="12" font-family="PingFangSC, 萍方-简"><tspan x="-31.2" y="0">每万返佣80</tspan></text>
+            </g>
+          </g>
+        </g>
+      </g>
+      <text id="例_A的团队业绩为600万_所在业绩级别为6级_每万返佣80_则A的直推返佣_B_C_200_80_16000_B的团队业绩为100万_所在业绩级别为1级_每万返佣20_C的团队业绩为300万_所在业绩级别为3级_每万返佣40_A的级差返佣_A_80-_B_20_100_A_80-_C_40_300_18000_则A的总佣金_16000_18000_34000" data-name="例：
+A的团队业绩为600万，所在业绩级别为6级，每万返佣80
+则A的直推返佣=(B+C)200*80=16000
+B的团队业绩为100万，所在业绩级别为1级，每万返佣20；C的团队业绩为300万，所在业绩级别为3级，
+每万返佣40
+A的级差返佣=((A)80-(B)20)*100+ ((A) 80-(C)40))*300=18000
+则A的总佣金=16000+18000=34000" transform="translate(659 1516.639)" fill="#fff" font-size="14" font-family="PingFangSC, 萍方-简"><tspan x="0" y="15">例：</tspan><tspan x="0" y="45">A的团队业绩为600万，所在业绩级别为6级，每万返佣80</tspan><tspan x="0" y="75">则A的直推返佣=(B+C)200*80=16000</tspan><tspan x="0" y="105">B的团队业绩为100万，所在业绩级别为1级，每万返佣20；C的团队业绩为300万，所在业绩级别为3级，</tspan><tspan x="0" y="135">每万返佣40</tspan><tspan x="0" y="165">A的级差返佣=((A)80-(B)20)*100+ ((A) 80-(C)40))*300=18000</tspan><tspan x="0" y="195">则A的总佣金=16000+18000=34000</tspan></text>
+      <text id="总佣金_直推返佣_级差返佣_直推返佣_直推业绩_返佣比例_或直属自身业绩之和_上级所在业绩级别返佣比例_级差返佣_上级代理所在业绩级别返佣比例_-下级直属代理所在业绩级别返佣比例_下级直属代理团队业绩_" data-name="总佣金=直推返佣+级差返佣
+
+直推返佣=直推业绩*返佣比例 或直属自身业绩之和*上级所在业绩级别返佣比例
+
+级差返佣= (上级代理所在业绩级别返佣比例 -下级直属代理所在业绩级别返佣比例)*下级直属代理团队业绩
+" transform="translate(659 1405.639)" fill="#fff" font-size="14" font-family="PingFangSC, 萍方-简"><tspan x="0" y="15">总佣金=直推返佣+级差返佣</tspan><tspan x="0" y="35"></tspan><tspan x="0" y="55">直推返佣=直推业绩*返佣比例 或直属自身业绩之和*上级所在业绩级别返佣比例</tspan><tspan x="0" y="75"></tspan><tspan x="0" y="95">级差返佣= (上级代理所在业绩级别返佣比例 -下级直属代理所在业绩级别返佣比例)*下级直属代理团队业绩</tspan></text>
+      <g id="组_1341" data-name="组 1341">
+        <g id="组_1326" data-name="组 1326" transform="translate(45 42)">
+          <g id="矩形_437" data-name="矩形 437" transform="translate(149 410)" fill="#fff" stroke="#ffb727" stroke-width="1">
+            <rect width="150" height="111" rx="10" stroke="none"/>
+            <rect x="0.5" y="0.5" width="149" height="110" rx="9.5" fill="none"/>
+          </g>
+          <text id="自身业绩_100万_直推业绩_100万_代理业绩_0_团队业绩_100万" data-name="自身业绩：100万
+直推业绩：100万
+代理业绩：0
+团队业绩：100万" transform="translate(170 439)" fill="#666" font-size="14" font-family="PingFangSC, 萍方-简"><tspan x="0" y="0">自身业绩：100万</tspan><tspan x="0" y="21">直推业绩：100万</tspan><tspan x="0" y="42">代理业绩：0</tspan><tspan x="0" y="63">团队业绩：100万</tspan></text>
+        </g>
+        <g id="组_1324" data-name="组 1324" transform="translate(-5 97)">
+          <g id="矩形_444" data-name="矩形 444" transform="translate(206 606)" fill="#fff" stroke="#ffb727" stroke-width="1">
+            <rect width="150" height="111" rx="10" stroke="none"/>
+            <rect x="0.5" y="0.5" width="149" height="110" rx="9.5" fill="none"/>
+          </g>
+          <text id="自身业绩_100万_直推业绩_0_代理业绩_0_团队业绩_0" data-name="自身业绩：100万
+直推业绩：0 
+代理业绩：0
+团队业绩：0" transform="translate(227 635)" fill="#666" font-size="14" font-family="PingFangSC, 萍方-简"><tspan x="0" y="0">自身业绩：100万</tspan><tspan x="0" y="21">直推业绩：0 </tspan><tspan x="0" y="42">代理业绩：0</tspan><tspan x="0" y="63">团队业绩：0</tspan></text>
+        </g>
+        <g id="路径_371" data-name="路径 371" transform="translate(705 954)" fill="#ff8f8f">
+          <path d="M 383.398681640625 66.72393798828125 L 143.6090850830078 66.72393798828125 L 127.5000152587891 50.6148681640625 L 127.5000152587891 16.6091194152832 L 143.6091613769531 0.5000123381614685 L 383.398681640625 0.5000123381614685 L 399.5078430175781 16.6091194152832 L 399.5078430175781 50.61483383178711 L 383.398681640625 66.72393798828125 Z" stroke="none"/>
+          <path d="M 143.8162536621094 1.000015258789063 L 127.9999694824219 16.81622695922852 L 127.9999694824219 50.4077262878418 L 143.8162536621094 66.22393798828125 L 383.1915893554688 66.22393798828125 L 399.0078125 50.4077262878418 L 399.0078125 16.81622695922852 L 383.1915893554688 1.000015258789063 L 143.8162536621094 1.000015258789063 M 143.4020385742188 1.52587890625e-05 L 383.6058044433594 1.52587890625e-05 L 400.0078125 16.40201187133789 L 400.0078125 50.82194137573242 L 383.6058044433594 67.22393798828125 L 143.4020385742188 67.22393798828125 L 126.9999694824219 50.82194137573242 L 126.9999694824219 16.40201187133789 L 143.4020385742188 1.52587890625e-05 Z" stroke="none" fill="#707070"/>
+        </g>
+        <g id="路径_372" data-name="路径 372" transform="translate(427 480)" fill="#ff8f8f">
+          <path d="M 383.398681640625 66.72393798828125 L 143.6090850830078 66.72393798828125 L 127.5000152587891 50.6148681640625 L 127.5000152587891 16.6091194152832 L 143.6091613769531 0.5000123381614685 L 383.398681640625 0.5000123381614685 L 399.5078430175781 16.6091194152832 L 399.5078430175781 50.61483383178711 L 383.398681640625 66.72393798828125 Z" stroke="none"/>
+          <path d="M 143.8162536621094 1.000015258789063 L 127.9999694824219 16.81622695922852 L 127.9999694824219 50.4077262878418 L 143.8162536621094 66.22393798828125 L 383.1915893554688 66.22393798828125 L 399.0078125 50.4077262878418 L 399.0078125 16.81622695922852 L 383.1915893554688 1.000015258789063 L 143.8162536621094 1.000015258789063 M 143.4020385742188 1.52587890625e-05 L 383.6058044433594 1.52587890625e-05 L 400.0078125 16.40201187133789 L 400.0078125 50.82194137573242 L 383.6058044433594 67.22393798828125 L 143.4020385742188 67.22393798828125 L 126.9999694824219 50.82194137573242 L 126.9999694824219 16.40201187133789 L 143.4020385742188 1.52587890625e-05 Z" stroke="none" fill="#707070"/>
+        </g>
+        <g id="组_1316" data-name="组 1316" transform="translate(31 120)">
+          <g id="矩形_448" data-name="矩形 448" transform="translate(569 583)" fill="#fff" stroke="#ffb727" stroke-width="1">
+            <rect width="151" height="111" rx="10" stroke="none"/>
+            <rect x="0.5" y="0.5" width="150" height="110" rx="9.5" fill="none"/>
+          </g>
+          <text id="自身业绩_100万_直推业绩_100万_代理业绩_0_团队业绩_0" data-name="自身业绩：100万
+直推业绩：100万
+代理业绩：0
+团队业绩：0" transform="translate(590 612)" fill="#666" font-size="14" font-family="PingFangSC, 萍方-简"><tspan x="0" y="0">自身业绩：100万</tspan><tspan x="0" y="21">直推业绩：100万</tspan><tspan x="0" y="42">代理业绩：0</tspan><tspan x="0" y="63">团队业绩：0</tspan></text>
+        </g>
+        <g id="组_1317" data-name="组 1317" transform="translate(31 112)">
+          <g id="矩形_449" data-name="矩形 449" transform="translate(569 721)" fill="#fff" stroke="#ffb727" stroke-width="1">
+            <rect width="151" height="111" rx="10" stroke="none"/>
+            <rect x="0.5" y="0.5" width="150" height="110" rx="9.5" fill="none"/>
+          </g>
+          <text id="自身业绩_100万_直推业绩_0_代理业绩_0_团队业绩_0-2" data-name="自身业绩：100万
+直推业绩：0
+代理业绩：0
+团队业绩：0" transform="translate(590 750)" fill="#666" font-size="14" font-family="PingFangSC, 萍方-简"><tspan x="0" y="0">自身业绩：100万</tspan><tspan x="0" y="21">直推业绩：0</tspan><tspan x="0" y="42">代理业绩：0</tspan><tspan x="0" y="63">团队业绩：0</tspan></text>
+        </g>
+        <g id="组_1314" data-name="组 1314" transform="translate(14 93)">
+          <g id="矩形_446" data-name="矩形 446" transform="translate(377 639)" fill="#fff" stroke="#c293d8" stroke-width="1">
+            <rect width="85" height="53" rx="10" stroke="none"/>
+            <rect x="0.5" y="0.5" width="84" height="52" rx="9.5" fill="none"/>
+          </g>
+          <text id="_3级代理G" data-name="3级代理G" transform="translate(389 671)" fill="#666" font-size="14" font-family="PingFangSC, 萍方-简"><tspan x="0" y="0">3级代理G</tspan></text>
+        </g>
+        <g id="组_1321" data-name="组 1321" transform="translate(0 123)">
+          <g id="矩形_451" data-name="矩形 451" transform="translate(808 609)" fill="#fff" stroke="#c293d8" stroke-width="1">
+            <rect width="92" height="53" rx="10" stroke="none"/>
+            <rect x="0.5" y="0.5" width="91" height="52" rx="9.5" fill="none"/>
+          </g>
+          <text id="_3级代理D" data-name="3级代理D" transform="translate(824 641)" fill="#666" font-size="14" font-family="PingFangSC, 萍方-简"><tspan x="0" y="0">3级代理D</tspan></text>
+        </g>
+        <g id="组_1322" data-name="组 1322" transform="translate(0 120)">
+          <g id="矩形_452" data-name="矩形 452" transform="translate(1014 609)" fill="#fff" stroke="#c293d8" stroke-width="1">
+            <rect width="92" height="53" rx="10" stroke="none"/>
+            <rect x="0.5" y="0.5" width="91" height="52" rx="9.5" fill="none"/>
+          </g>
+          <text id="_3级代理E" data-name="3级代理E" transform="translate(1031 641)" fill="#666" font-size="14" font-family="PingFangSC, 萍方-简"><tspan x="0" y="0">3级代理E</tspan></text>
+        </g>
+        <g id="组_1320" data-name="组 1320" transform="translate(2 92)">
+          <g id="矩形_459" data-name="矩形 459" transform="translate(1177 609)" fill="#fff" stroke="#ffb727" stroke-width="1">
+            <rect width="150" height="114" rx="10" stroke="none"/>
+            <rect x="0.5" y="0.5" width="149" height="113" rx="9.5" fill="none"/>
+          </g>
+          <text id="自身业绩_100万_直推业绩_0_代理业绩_0_团队业绩_0-3" data-name="自身业绩：100万
+直推业绩：0
+代理业绩：0
+团队业绩：0" transform="translate(1190 640.639)" fill="#666" font-size="14" font-family="PingFangSC, 萍方-简"><tspan x="0" y="0">自身业绩：100万</tspan><tspan x="0" y="21">直推业绩：0</tspan><tspan x="0" y="42">代理业绩：0</tspan><tspan x="0" y="63">团队业绩：0</tspan></text>
+        </g>
+        <g id="组_1319" data-name="组 1319" transform="translate(0 124)">
+          <g id="矩形_453" data-name="矩形 453" transform="translate(808 735)" fill="#fff" stroke="#8c8c8c" stroke-width="1">
+            <rect width="92" height="53" rx="10" stroke="none"/>
+            <rect x="0.5" y="0.5" width="91" height="52" rx="9.5" fill="none"/>
+          </g>
+          <text id="_4级代理F" data-name="4级代理F" transform="translate(825 767)" fill="#666" font-size="14" font-family="PingFangSC, 萍方-简"><tspan x="0" y="0">4级代理F</tspan></text>
+        </g>
+        <g id="组_1328" data-name="组 1328" transform="translate(-106)">
+          <g id="矩形_442" data-name="矩形 442" transform="translate(1153 457)" fill="#fff" stroke="#ffb727" stroke-width="1">
+            <rect width="150" height="111" rx="10" stroke="none"/>
+            <rect x="0.5" y="0.5" width="149" height="110" rx="9.5" fill="none"/>
+          </g>
+          <text id="自身业绩_100万_直推业绩_200万_代理业绩_100万_团队业绩_300万" data-name="自身业绩：100万
+直推业绩：200万
+代理业绩：100万
+团队业绩：300万" transform="translate(1174 485.639)" fill="#666" font-size="14" font-family="PingFangSC, 萍方-简"><tspan x="0" y="0">自身业绩：100万</tspan><tspan x="0" y="21">直推业绩：200万</tspan><tspan x="0" y="42">代理业绩：100万</tspan><tspan x="0" y="63">团队业绩：300万</tspan></text>
+        </g>
+        <g id="组_1325" data-name="组 1325" transform="translate(0 31)">
+          <g id="矩形_440" data-name="矩形 440" transform="translate(915 456)" fill="#fff" stroke="#239961" stroke-width="1">
+            <rect width="87" height="51" rx="10" stroke="none"/>
+            <rect x="0.5" y="0.5" width="86" height="50" rx="9.5" fill="none"/>
+          </g>
+          <text id="_2级代理C" data-name="2级代理C" transform="translate(928 486)" fill="#666" font-size="14" font-family="PingFangSC, 萍方-简"><tspan x="0" y="0">2级代理C</tspan></text>
+        </g>
+        <g id="路径_368" data-name="路径 368" transform="translate(445 1126)" fill="#ff8f8f">
+          <path d="M 383.3987121582031 66.72397613525391 L 16.60910606384277 66.72397613525391 L 0.5000062584877014 50.61482620239258 L 0.5000062584877014 16.60912704467773 L 16.60915565490723 0.499976634979248 L 383.3987121582031 0.499976634979248 L 399.5078125 16.60912704467773 L 399.5078125 50.61482620239258 L 383.3987121582031 66.72397613525391 Z" stroke="none"/>
+          <path d="M 16.81625366210938 0.9999771118164063 L 1 16.81622695922852 L 1 50.4077262878418 L 16.81625366210938 66.22397613525391 L 383.1915893554688 66.22397613525391 L 399.0078125 50.40773010253906 L 399.0078125 16.81622695922852 L 383.1915893554688 0.9999771118164063 L 16.81625366210938 0.9999771118164063 M 16.40206909179688 -2.288818359375e-05 L 383.6058044433594 -2.288818359375e-05 L 400.0078125 16.40202713012695 L 400.0078125 50.82192611694336 L 383.6058044433594 67.22397613525391 L 16.40206909179688 67.22397613525391 L 0 50.82192611694336 L 0 16.40202713012695 L 16.40206909179688 -2.288818359375e-05 Z" stroke="none" fill="#707070"/>
+        </g>
+        <g id="路径_370" data-name="路径 370" transform="translate(63 954)" fill="#ff8f8f">
+          <path d="M 383.398681640625 66.72393798828125 L 143.6090850830078 66.72393798828125 L 127.5000152587891 50.6148681640625 L 127.5000152587891 16.6091194152832 L 143.6091613769531 0.5000123381614685 L 383.398681640625 0.5000123381614685 L 399.5078430175781 16.6091194152832 L 399.5078430175781 50.61483383178711 L 383.398681640625 66.72393798828125 Z" stroke="none"/>
+          <path d="M 143.8162536621094 1.000015258789063 L 127.9999694824219 16.81622695922852 L 127.9999694824219 50.4077262878418 L 143.8162536621094 66.22393798828125 L 383.1915893554688 66.22393798828125 L 399.0078125 50.4077262878418 L 399.0078125 16.81622695922852 L 383.1915893554688 1.000015258789063 L 143.8162536621094 1.000015258789063 M 143.4020385742188 1.52587890625e-05 L 383.6058044433594 1.52587890625e-05 L 400.0078125 16.40201187133789 L 400.0078125 50.82194137573242 L 383.6058044433594 67.22393798828125 L 143.4020385742188 67.22393798828125 L 126.9999694824219 50.82194137573242 L 126.9999694824219 16.40201187133789 L 143.4020385742188 1.52587890625e-05 Z" stroke="none" fill="#707070"/>
+        </g>
+        <g id="路径_369" data-name="路径 369" transform="translate(445 1257)" fill="#ff8f8f">
+          <path d="M 383.3987121582031 66.72397613525391 L 16.60910606384277 66.72397613525391 L 0.5000062584877014 50.61482620239258 L 0.5000062584877014 16.60912704467773 L 16.60915565490723 0.499976634979248 L 383.3987121582031 0.499976634979248 L 399.5078125 16.60912704467773 L 399.5078125 50.61482620239258 L 383.3987121582031 66.72397613525391 Z" stroke="none"/>
+          <path d="M 16.81625366210938 0.9999771118164063 L 1 16.81622695922852 L 1 50.4077262878418 L 16.81625366210938 66.22397613525391 L 383.1915893554688 66.22397613525391 L 399.0078125 50.40773010253906 L 399.0078125 16.81622695922852 L 383.1915893554688 0.9999771118164063 L 16.81625366210938 0.9999771118164063 M 16.40206909179688 -2.288818359375e-05 L 383.6058044433594 -2.288818359375e-05 L 400.0078125 16.40202713012695 L 400.0078125 50.82192611694336 L 383.6058044433594 67.22397613525391 L 16.40206909179688 67.22397613525391 L 0 50.82192611694336 L 0 16.40202713012695 L 16.40206909179688 -2.288818359375e-05 Z" stroke="none" fill="#707070"/>
+        </g>
+        <g id="组_1313" data-name="组 1313" transform="translate(11 31)">
+          <g id="矩形_441" data-name="矩形 441" transform="translate(380 456)" fill="#fff" stroke="#239961" stroke-width="1">
+            <rect width="85" height="51" rx="10" stroke="none"/>
+            <rect x="0.5" y="0.5" width="84" height="50" rx="9.5" fill="none"/>
+          </g>
+          <text id="_2级代理B" data-name="2级代理B" transform="translate(393 487)" fill="#666" font-size="14" font-family="PingFangSC, 萍方-简"><tspan x="0" y="0">2级代理B</tspan></text>
+        </g>
+        <g id="矩形_438" data-name="矩形 438" transform="translate(365 410)" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="3">
+          <rect width="667" height="204" stroke="none"/>
+          <rect x="0.5" y="0.5" width="666" height="203" fill="none"/>
+        </g>
+        <g id="矩形_443" data-name="矩形 443" transform="translate(118 662)" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="3">
+          <rect width="1044" height="563" stroke="none"/>
+          <rect x="0.5" y="0.5" width="1043" height="562" fill="none"/>
+        </g>
+        <g id="矩形_445" data-name="矩形 445" transform="translate(140 679)" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="3">
+          <rect width="400" height="357" stroke="none"/>
+          <rect x="0.5" y="0.5" width="399" height="356" fill="none"/>
+        </g>
+        <g id="矩形_450" data-name="矩形 450" transform="translate(787 679)" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="3">
+          <rect width="356" height="357" stroke="none"/>
+          <rect x="0.5" y="0.5" width="355" height="356" fill="none"/>
+        </g>
+        <g id="组_1312" data-name="组 1312" transform="translate(26 212)">
+          <text id="A与B的代理业绩" transform="translate(235 771)" fill="#fff" font-size="18" font-family="PingFangSC-Medium, 萍方-简" font-weight="500"><tspan x="0" y="0">A与B的代理业绩</tspan></text>
+          <text id="G的自身业绩_100万" data-name="G的自身业绩=100万" transform="translate(237 794)" fill="#fff" font-size="14" font-family="PingFangSC, 萍方-简"><tspan x="0" y="0">G的自身业绩=100万</tspan></text>
+        </g>
+        <g id="组_1311" data-name="组 1311" transform="translate(-73 208)">
+          <text id="A与C的代理业绩" transform="translate(975 775)" fill="#fff" font-size="18" font-family="PingFangSC-Medium, 萍方-简" font-weight="500"><tspan x="0" y="0">A与C的代理业绩</tspan></text>
+          <text id="_D_E_F_的自身业绩_300万" data-name="(D+E+F)的自身业绩=300万" transform="translate(956 798)" fill="#fff" font-size="14" font-family="PingFangSC, 萍方-简"><tspan x="0" y="0">(D+E+F)的自身业绩=300万</tspan></text>
+        </g>
+        <g id="组_1309" data-name="组 1309" transform="translate(83 255)">
+          <text id="A的级代理业绩" transform="translate(511 900)" fill="#fff" font-size="18" font-family="PingFangSC-Medium, 萍方-简" font-weight="500"><tspan x="0" y="0">A的级代理业绩</tspan></text>
+          <text id="_D_E_F_G_的自身业绩_400万" data-name="(D+E+F+G)的自身业绩=400万" transform="translate(467 923)" fill="#fff" font-size="14" font-family="PingFangSC, 萍方-简"><tspan x="0" y="0">(D+E+F+G)的自身业绩=400万</tspan></text>
+        </g>
+        <g id="组_1308" data-name="组 1308" transform="translate(-80 242)">
+          <text id="A的团队业绩" transform="translate(674 1044)" fill="#fff" font-size="18" font-family="PingFangSC-Medium, 萍方-简" font-weight="500"><tspan x="0" y="0">A的团队业绩</tspan></text>
+          <text id="_B_C_D_E_F_G_的自身业绩_600万" data-name="(B+C+D+E+F+G)的自身业绩=600万" transform="translate(612 1067)" fill="#fff" font-size="14" font-family="PingFangSC, 萍方-简"><tspan x="0" y="0">(B+C+D+E+F+G)的自身业绩=600万</tspan></text>
+        </g>
+        <g id="组_1310" data-name="组 1310" transform="translate(81 47)">
+          <text id="A的直推业绩" transform="translate(559 458.639)" fill="#fff" font-size="18" font-family="PingFangSC-Medium, 萍方-简" font-weight="500"><tspan x="0" y="0">A的直推业绩</tspan></text>
+          <text id="_B_C_的自身业绩_200万" data-name="（B+C）的自身业绩=200万" transform="translate(523 484.639)" fill="#fff" font-size="14" font-family="PingFangSC, 萍方-简"><tspan x="0" y="0">（B+C）的自身业绩=200万</tspan></text>
+        </g>
+        <g id="组_1330" data-name="组 1330">
+          <text id="业绩_有效投注金额_团队业绩_只包含下级及下下级_不包含代理自身业绩_业绩级别_根据每个代理的团队业绩所在区域评定业绩级别" data-name="业绩：有效投注金额
+团队业绩：只包含下级及下下级,不包含代理自身业绩
+业绩级别：根据每个代理的团队业绩所在区域评定业绩级别" transform="translate(97 206.639)" fill="#666" font-size="14" font-family="PingFangSC, 萍方-简"><tspan x="0" y="15">业绩：有效投注金额</tspan><tspan y="15" fill="#ff2626"></tspan><tspan x="0" y="45">团队业绩：只包含下级及下下级,不包含代理自身业绩</tspan><tspan x="0" y="75">业绩级别：根据每个代理的团队业绩所在区域评定业绩级别</tspan></text>
+        </g>
+        <g id="组_1338" data-name="组 1338" transform="translate(35)">
+          <g id="矩形_462" data-name="矩形 462" transform="translate(533 248)" fill="#fff" stroke="#ffb727" stroke-width="1">
+            <rect width="149" height="111" rx="10" stroke="none"/>
+            <rect x="0.5" y="0.5" width="148" height="110" rx="9.5" fill="none"/>
+          </g>
+          <text id="自身业绩_100万_直推业绩_200万_代理业绩_400万_团队业绩_600万" data-name="自身业绩：100万
+直推业绩：200万
+代理业绩：400万
+团队业绩：600万" transform="translate(553 277)" fill="#666" font-size="14" font-family="PingFangSC, 萍方-简"><tspan x="0" y="0">自身业绩：100万</tspan><tspan x="0" y="21">直推业绩：200万</tspan><tspan x="0" y="42">代理业绩：400万</tspan><tspan x="0" y="63">团队业绩：600万</tspan></text>
+        </g>
+        <g id="组_1331" data-name="组 1331" transform="translate(-21 -4)">
+          <g id="矩形_458" data-name="矩形 458" transform="translate(778 285)" fill="#fff" stroke="#ff2626" stroke-width="1">
+            <rect width="87" height="51" rx="10" stroke="none"/>
+            <rect x="0.5" y="0.5" width="86" height="50" rx="9.5" fill="none"/>
+          </g>
+          <text id="_1级代理A" data-name="1级代理A" transform="translate(792 315)" fill="#666" font-size="14" font-family="PingFangSC, 萍方-简"><tspan x="0" y="0">1级代理A</tspan></text>
+        </g>
+        <g id="长箭头" transform="translate(655.428 491.121) rotate(-90)">
+          <path id="路径_358" data-name="路径 358" d="M432.82,472.727H354.556v.058Z" transform="translate(-342.052 -169.829)" fill="none" stroke="#9fceff" stroke-linecap="round" stroke-width="2" stroke-dasharray="2 5"/>
+          <path id="路径_359" data-name="路径 359" d="M16.236,310.515l-14.8-8.694,14.8-8.929-2.417,8.821,2.417,8.8Z" transform="translate(5 1)" fill="#9fceff"/>
+        </g>
+        <g id="长箭头-2" data-name="长箭头" transform="translate(550.428 732.121) rotate(-90)">
+          <path id="路径_358-2" data-name="路径 358" d="M397.8,472.727H354.556v.058Z" transform="translate(-342.052 -169.829)" fill="none" stroke="#9fceff" stroke-linecap="round" stroke-width="2" stroke-dasharray="2 5"/>
+          <path id="路径_359-2" data-name="路径 359" d="M16.236,310.515l-14.8-8.694,14.8-8.929-2.417,8.821,2.417,8.8Z" transform="translate(5 1)" fill="#9fceff"/>
+        </g>
+        <g id="长箭头-3" data-name="长箭头" transform="translate(550.428 864.121) rotate(-90)">
+          <path id="路径_358-3" data-name="路径 358" d="M425.685,472.727H354.556v.058Z" transform="translate(-342.052 -169.829)" fill="none" stroke="#9fceff" stroke-linecap="round" stroke-width="2" stroke-dasharray="2 5"/>
+          <path id="路径_359-3" data-name="路径 359" d="M16.236,310.515l-14.8-8.694,14.8-8.929-2.417,8.821,2.417,8.8Z" transform="translate(5 1)" fill="#9fceff"/>
+        </g>
+        <g id="长箭头-4" data-name="长箭头" transform="translate(342.106 1131.121) rotate(-90)">
+          <path id="路径_358-4" data-name="路径 358" d="M404.624,472.727H354.556v.054Z" transform="translate(-343.543 -169.829)" fill="none" stroke="#9fceff" stroke-linecap="round" stroke-width="2" stroke-dasharray="2 5"/>
+          <path id="路径_359-4" data-name="路径 359" d="M12.6,310.515l-11.17-8.694,11.17-8.929-1.824,8.821,1.824,8.8Z" transform="translate(5 1)" fill="#9fceff"/>
+        </g>
+        <g id="长箭头-5" data-name="长箭头" transform="translate(760.428 732.121) rotate(-90)">
+          <path id="路径_358-5" data-name="路径 358" d="M397.8,472.727H354.556v.058Z" transform="translate(-342.052 -169.829)" fill="none" stroke="#9fceff" stroke-linecap="round" stroke-width="2" stroke-dasharray="2 5"/>
+          <path id="路径_359-5" data-name="路径 359" d="M16.236,310.515l-14.8-8.694,14.8-8.929-2.417,8.821,2.417,8.8Z" transform="translate(5 1)" fill="#9fceff"/>
+        </g>
+        <g id="长箭头-6" data-name="长箭头" transform="translate(127.428 491.121) rotate(-90)">
+          <path id="路径_358-6" data-name="路径 358" d="M432.82,472.727H354.556v.058Z" transform="translate(-342.052 -169.829)" fill="none" stroke="#9fceff" stroke-linecap="round" stroke-width="2" stroke-dasharray="2 5"/>
+          <path id="路径_359-6" data-name="路径 359" d="M16.236,310.515l-14.8-8.694,14.8-8.929-2.417,8.821,2.417,8.8Z" transform="translate(5 1)" fill="#9fceff"/>
+        </g>
+        <g id="长箭头-7" data-name="长箭头" transform="translate(127.428 735.432) rotate(-90)">
+          <path id="路径_358-7" data-name="路径 358" d="M534.587,472.727H354.556v.058Z" transform="translate(-342.052 -169.829)" fill="none" stroke="#9fceff" stroke-linecap="round" stroke-width="2" stroke-dasharray="2 5"/>
+          <path id="路径_359-7" data-name="路径 359" d="M16.236,310.515l-14.8-8.694,14.8-8.929-2.417,8.821,2.417,8.8Z" transform="translate(5 1)" fill="#9fceff"/>
+        </g>
+        <g id="组_1333" data-name="组 1333" transform="translate(179.855 190.377)">
+          <text id="_" data-name="{" transform="translate(182.145 579.623)" fill="#ffb727" font-size="66" font-family="Gabriola"><tspan x="0" y="0">{</tspan></text>
+        </g>
+        <g id="组_1339" data-name="组 1339" transform="translate(595.855 190.377)">
+          <text id="_2-2" data-name="{" transform="translate(182.145 579.623)" fill="#ffb727" font-size="66" font-family="Gabriola"><tspan x="0" y="0">{</tspan></text>
+        </g>
+        <g id="组_1340" data-name="组 1340" transform="translate(595.855 318.377)">
+          <text id="_3-2" data-name="{" transform="translate(182.145 579.623)" fill="#ffb727" font-size="66" font-family="Gabriola"><tspan x="0" y="0">{</tspan></text>
+        </g>
+        <g id="组_1334" data-name="组 1334" transform="translate(173.855 -52.623)">
+          <text id="_4-2" data-name="{" transform="translate(182.145 579.623)" fill="#ffb727" font-size="66" font-family="Gabriola"><tspan x="0" y="0">{</tspan></text>
+        </g>
+        <g id="组_1337" data-name="组 1337" transform="translate(545.855 -255.623)">
+          <text id="_5-2" data-name="{" transform="translate(182.145 579.623)" fill="#ffb727" font-size="66" font-family="Gabriola"><tspan x="0" y="0">{</tspan></text>
+        </g>
+        <g id="组_1335" data-name="组 1335" transform="translate(1023 482)">
+          <text id="_6-2" data-name="{" transform="matrix(-1, 0, 0, 1, 18, 45)" fill="#ffb727" font-size="66" font-family="Gabriola"><tspan x="0" y="0">{</tspan></text>
+        </g>
+        <g id="组_1336" data-name="组 1336" transform="translate(1134 725)">
+          <text id="_7" data-name="{" transform="matrix(-1, 0, 0, 1, 18, 45)" fill="#ffb727" font-size="66" font-family="Gabriola"><tspan x="0" y="0">{</tspan></text>
+        </g>
+        <g id="矩形_464" data-name="矩形 464" transform="translate(98 384)" fill="none" stroke="#ccc" stroke-width="1" stroke-dasharray="3">
+          <rect width="1251" height="972" stroke="none"/>
+          <rect x="0.5" y="0.5" width="1250" height="971" fill="none"/>
+        </g>
+        <path id="路径_366" data-name="路径 366" d="M415.1,472.727h0Z" transform="translate(1279.924 -21.158) rotate(90)" fill="none" stroke="#9fceff" stroke-linecap="round" stroke-width="2" stroke-dasharray="2 5"/>
+        <path id="路径_373" data-name="路径 373" d="M478.158,472.727h0Z" transform="translate(1430.924 185.842) rotate(90)" fill="none" stroke="#9fceff" stroke-linecap="round" stroke-width="2" stroke-dasharray="2 5"/>
+        <path id="路径_367" data-name="路径 367" d="M415.1,465.938l.641-529.652Z" transform="translate(896.313 -19.158) rotate(90)" fill="none" stroke="#9fceff" stroke-linecap="round" stroke-width="2" stroke-dasharray="2 5"/>
+        <path id="路径_375" data-name="路径 375" d="M415.1,577.877l.759-641.592Z" transform="translate(899.842 650.84) rotate(90)" fill="none" stroke="#9fceff" stroke-linecap="round" stroke-width="2" stroke-dasharray="2 5"/>
+        <path id="路径_374" data-name="路径 374" d="M415.177,330.02,415.1,118.68Z" transform="translate(1183.313 255.842) rotate(90)" fill="none" stroke="#9fceff" stroke-linecap="round" stroke-width="2" stroke-dasharray="2 5"/>
+      </g>
+    </g>
+    <g id="长箭头-8" data-name="长箭头" transform="translate(969.915 1016.526) rotate(90)">
+      <path id="路径_358-8" data-name="路径 358" d="M40.09.03H0V0Z" transform="translate(6.071 8.56)" fill="none" stroke="#9fceff" stroke-linecap="round" stroke-width="2" stroke-dasharray="2 5"/>
+    </g>
+    <g id="长箭头-9" data-name="长箭头" transform="translate(329.915 1016.526) rotate(90)">
+      <path id="路径_358-9" data-name="路径 358" d="M40.09.03H0V0Z" transform="translate(6.071 8.56)" fill="none" stroke="#9fceff" stroke-linecap="round" stroke-width="2" stroke-dasharray="2 5"/>
+    </g>
+  </g>
+</svg>

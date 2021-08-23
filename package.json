@@ -1,0 +1,75 @@
+{
+  "name": "new-admin",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "vue-cli-service serve --open",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "awe-dnd": "^0.3.4",
+    "axios": "^0.21.1",
+    "babel-plugin-transform-remove-strict-mode": "0.0.2",
+    "echarts": "^4.1.0",
+    "get-browser-info": "^1.0.1",
+    "iview": "^3.2.1",
+    "js-cookie": "^2.2.0",
+    "lodash": "^4.17.21",
+    "moment": "^2.24.0",
+    "sortablejs": "^1.8.1",
+    "view-design": "^4.0.1",
+    "vue": "^2.5.17",
+    "vue-clipboard2": "^0.2.1",
+    "vue-router": "^3.0.7",
+    "vue-ueditor-wrap": "^2.4.1",
+    "vuedraggable": "^2.20.0",
+    "vuex": "^3.0.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.2.0",
+    "@vue/cli-plugin-eslint": "^3.2.0",
+    "@vue/cli-service": "^3.2.0",
+    "@vue/eslint-config-standard": "^4.0.0",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.15.1",
+    "eslint-plugin-vue": "^5.0.0-0",
+    "iview-loader": "^1.2.2",
+    "less": "^2.7.3",
+    "less-loader": "^4.0.5",
+    "mockjs": "^1.0.1-beta3",
+    "vue-template-compiler": "^2.5.17"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/essential",
+      "@vue/standard"
+    ],
+    "rules": {
+      "vue/no-parsing-error": [
+        2,
+        {
+          "x-invalid-end-tag": false
+        }
+      ],
+      "no-fallthrough": 0
+    },
+    "parserOptions": {
+      "parser": "babel-eslint"
+    }
+  },
+  "postcss": {
+    "plugins": {
+      "autoprefixer": {}
+    }
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ]
+}

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+  <head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="renderer" content="webkit|ie-stand|ie-comp">
+    <meta name="format-detection" content="telephone=no,email=no,address=no">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <link rel="icon" href="<%= BASE_URL %>favicon.ico">
+    <title>new-admin</title>
+    <script src="/UE/ueditor.config.js"></script>
+    <!-- <script src="/UE/ueditor.all.min.js"></script> -->
+    <script src="/UE/ueditor.parse.min.js"></script>
+    <!-- <script src="/UE/ueditor/lang/zh-cn/zh-cn.js"></script>  -->
+    <link rel="stylesheet" href="/UE/themes/default/css/ueditor.css">
+    <script charset="utf-8" src="./kindeditor/kindeditor-all-min.js"></script>
+    <script charset="utf-8" src="./kindeditor/lang/zh-CN.js"></script>
+
+  </head>
+  <script>
+      // if(screen.width<1600){
+      //     document.write('<link rel="stylesheet" href="../src/styles/bijiben.less">');
+        
+      //   // var linkNode = document.createElement("link"); 
+      //   //   linkNode.setAttribute("rel","stylesheet"); 
+      //   //   linkNode.setAttribute("type","text/less"); 
+      //   //   linkNode.setAttribute("href","../src/styles/bijiben.less"); 
+      //   //   document.head.appendChild(linkNode);  
+      // }
+      resetrem()
+      window.addEventListener("resize",resetrem);
+      function resetrem(){ 
+        var html = document.querySelector("html");//获取到html元素
+        // var width = html.getBoundingClientRect().width;//获取屏幕的宽度
+        // var width=screen.width
+        if(screen.width<=1690&&screen.width>1300){
+            html.style.zoom=0.8
+            html.style.fontSize = 17+"px";
+            html.style.transformOrigin='0 0';
+        }
+        if(screen.width<1500&&screen.width>1400){
+          // if(window.devicePixelRatio<2&&window.devicePixelRatio>1.78){
+          //     html.style.fontSize=15+'px';
+          // }
+          if(window.devicePixelRatio<=1.78&&window.devicePixelRatio>=1.5){
+            html.style.fontSize=15+'px';
+          }
+          if(window.devicePixelRatio<1.5&&window.devicePixelRatio>1){
+            html.style.fontSize=8+'px';
+          }
+          if(window.devicePixelRatio<=1&&window.devicePixelRatio>0){
+            html.style.fontSize=8+'px';
+          }
+        }      
+     }
+
+    </script>
+  <body id='dody'>
+    <noscript>
+      <strong>We're sorry but new-admin doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
+    </noscript>
+    <div id="app"></div>
+    <!-- built files will be auto injected -->
+  </body>
+
+</html>

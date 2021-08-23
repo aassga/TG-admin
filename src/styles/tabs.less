@@ -1,0 +1,24 @@
+@import "./color.less";
+/deep/.ivu-tabs.ivu-tabs-card > .ivu-tabs-bar{
+  .ivu-tabs-tab{
+    margin-right: 0;
+    border-top: 2px solid @tableBorderColor;
+    border-radius: 0px!important;
+    color: #444;
+  }
+  .ivu-tabs-tab-active{
+    border-color: @tableBorderColor;
+    border-top: 2px solid @btnColor;
+    border-radius: 0px!important;
+    color: #444;
+  }
+} 
+
+/deep/.ivu-tabs-nav-container:focus {
+  .ivu-tabs-tab-focused {
+    border-color: @tableBorderColor !important;
+    border-top: 2px solid @btnColor !important;
+    border-radius: 0px!important;
+    color: #444;
+  }
+}

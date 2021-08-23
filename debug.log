@@ -1,0 +1,2 @@
+[0401/163734.982:ERROR:process_info.cc(375)] NtQuerySystemInformation SystemExtendedHandleInformation: 指定的信息记录长度与请求的信息类别长度不符合。 (0xc0000004)
+[0430/160657.470:ERROR:settings.cc(320)] Settings magic is not 1129342067

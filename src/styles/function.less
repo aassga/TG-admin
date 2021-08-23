@@ -1,0 +1,35 @@
+@import './color.less';
+
+// 声明函数
+.flexRow(@justify:space-around) {
+  display: flex;
+  justify-content: @justify;
+  align-items: center;
+  flex-direction: row
+}
+
+.flexColumn() {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: column
+}
+
+.wordWrap() {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 1; //要显示几行,需要高度和宽度。
+  -webkit-box-orient: vertical;
+}
+
+.after(@w, @h, @c, @l, @t) {
+  position: absolute;
+  display: block;
+  content: "";
+  width: @w;
+  height: @h;
+  background-color: @c;
+  left: @l;
+  top: @t;
+}

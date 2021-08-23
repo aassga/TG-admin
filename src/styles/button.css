@@ -1,0 +1,291 @@
+/deep/ .ivu-btn.submit {
+    height: 50px;
+    padding: 0 !important;
+    width: 260px;
+    font-size: 1.25rem;
+}
+
+/deep/ .ivu-btn.newSubmit {
+    height: 50px;
+    padding: 0 !important;
+    width: 320px;
+    font-size: 1.25rem;
+}
+
+/deep/ .ivu-btn.commonSubmit {
+    height: 50px;
+    padding: 0 !important;
+    font-size: 1.25rem;
+}
+
+/deep/ .ivu-btn.gray-bg {
+    background-color: #f6f6f8;
+    color: #c5c8ce;
+    border-color: #c5c8ce;
+}
+
+/deep/ .ivu-btn.moneySubmit {
+    width: 160px;
+    background-color: #2d8cf0;
+    border-color: #2d8cf0;
+    color: #fff;
+    height: 50px;
+    font-size: 1.25rem;
+}
+
+/deep/.ivu-btn.gray:hover {
+    background-color: #f6f6f8;
+    color: #c5c8ce;
+    border-color: #c5c8ce;
+}
+
+/deep/ .ivu-btn.copy {
+    width: 80px;
+    border-color: #e4e4e4;
+    background-color: #fff;
+    color: #2d8cf0;
+}
+
+/deep/ .ivu-btn.cardNutton {
+    padding: 0 20px;
+    height: 36px;
+    font-size: 1rem;
+    color: #fff;
+    background-color: #2d8cf0;
+    border-color: #2d8cf0;
+}
+
+/deep/ .ivu-btn.add,
+/deep/ .ivu-btn.reduce {
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+}
+
+/deep/ .ivu-btn.addArtciles {
+    padding: 0 20px;
+    height: 30px;
+    line-height: 30px;
+    background: #2d8cf0;
+    border-color: #2d8cf0;
+    color: #fff;
+}
+
+/deep/ .ivu-btn.addSave {
+    width: 200px;
+    height: 50px;
+    font-size: 1.25rem;
+    background: #2d8cf0;
+    color: #fff;
+}
+
+/deep/ .ivu-btn.send {
+    background: #2d8cf0;
+    width: 120px;
+    height: 50px;
+    color: #fff;
+}
+
+/deep/ .ivu-btn.send-close {
+    background: #e5e5e5;
+    width: 120px;
+    height: 50px;
+    line-height: 50px;
+    color: #fff;
+}
+
+/deep/ .ivu-btn.bg {
+    background: #2d8cf0;
+    color: #fff;
+    width: 100px;
+}
+
+/deep/ .ivu-btn.gbbg {
+    background: #f6f6f8;
+    color: #a7a7a7;
+}
+
+/deep/ .ivu-btn.bgc {
+    background: #fff;
+    border: 1px solid #fff;
+}
+
+/deep/ .ivu-btn.add {
+    margin-right: 60px;
+}
+
+/deep/ .ivu-btn.lottery {
+    width: 100px;
+    height: 30px;
+    font-size: 0.875rem;
+    padding: 0;
+}
+
+/deep/ .ivu-btn.lottery span {
+    vertical-align: 0;
+}
+
+/deep/ .ivu-btn.more-btn {
+    width: 140px;
+    height: 50px;
+    font-size: 1.0625rem;
+}
+
+/deep/ .ivu-btn.gray {
+    background: #e4e4e4;
+}
+
+/deep/ .ivu-btn.export-ok {
+    width: 240px;
+    height: 50px;
+    border-radius: 5px;
+}
+
+/deep/ .ivu-btn.exportNew-ok {
+    width: 240px;
+    height: 36px;
+    font-size: 1.25rem;
+    border-radius: 5px;
+}
+
+/deep/ .ivu-btn.export {
+    height: 36px;
+    background: #2d8cf0;
+    border-radius: 3px;
+}
+
+/deep/ .ivu-btn.close {
+    width: 240px;
+    height: 50px;
+    background: #e5e5e5;
+    border-radius: 5px;
+}
+
+/deep/ .ivu-btn.close.close {
+    margin-left: 280px;
+    font-size: 1.25rem;
+}
+
+/deep/ .ivu-btn.save {
+    width: 320px;
+    height: 36px;
+    background: #2d8cf0;
+    border-radius: 5px;
+    font-size: 1.25rem;
+    font-weight: 400;
+    color: #fff;
+}
+
+/deep/ .ivu-btn.admin-add {
+    width: 120px;
+    height: 30px;
+    color: #2d8cf0;
+    border: 1px solid #2d8cf0;
+}
+
+.status-button {
+    height: 36px;
+}
+
+.status-button button {
+    line-height: 36px;
+    border-color: #e4e4e4;
+    background-color: #f6f6f8;
+}
+
+.status-button button.active {
+    color: #2d8cf0;
+    background-color: #fff;
+}
+
+.status-button button:focus {
+    box-shadow: 0 0 0 0;
+}
+
+.status-button button span {
+    vertical-align: 0;
+}
+
+.agency-adds button {
+    width: 100px;
+    height: 36px;
+    background: #fff;
+    border-radius: 5px;
+    margin: 15px;
+}
+
+.agency-adds button.active {
+    border-radius: 5px;
+}
+
+.agency-adds button:focus {
+    box-shadow: 0 0 0 0;
+}
+
+.repay-button {
+    height: 36px;
+}
+
+.repay-button button {
+    width: 150px;
+    border: 0;
+    height: 36px;
+    line-height: 36px;
+}
+
+.repay-button button.active {
+    color: #2d8cf0;
+    border: 1px solid #2d8cf0;
+    border-bottom: 0;
+    height: 36px;
+    line-height: 36px;
+    border-radius: 0;
+}
+
+.repay-button button:focus {
+    box-shadow: 0 0 0 0;
+}
+
+.repay-button1 {
+    height: 36px;
+}
+
+.repay-button1 button {
+    padding-left: 20px;
+    padding-right: 20px;
+    border: 0;
+    height: 36px;
+    line-height: 36px;
+}
+
+.repay-button1 button.active {
+    color: #2d8cf0;
+    border: 1px solid #2d8cf0;
+    border-bottom: 0;
+    height: 36px;
+    line-height: 36px;
+    border-radius: 0;
+}
+
+.repay-button1 button:focus {
+    box-shadow: 0 0 0 0;
+}
+
+.ivu-btn:hover {
+    border-color: #2d8cf0;
+}
+
+.ivu-btn:active,
+.ivu-btn.active {
+    border-color: #2d8cf0;
+}
+
+.ivu-btn-group .ivu-btn+.ivu-btn {
+    margin-left: 0;
+}
+
+.jgj-btn {
+    width: 140px;
+    height: 50px;
+    font-size: 20px;
+}

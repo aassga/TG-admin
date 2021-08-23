@@ -1,0 +1,64 @@
+.tip-box {
+  width: 100%;
+  border: 1px solid #f2f2f2;
+}
+.tip-box .title {
+  width: 100%;
+  background: #f6f6f8;
+  height: 36px;
+  line-height: 36px;
+  border-radius: 4px;
+}
+.tip-box .title span {
+  display: inline-block;
+  width: 50%;
+  text-align: center;
+}
+.tip-box .title span:first-child {
+  border-right: 1px solid #f2f2f2;
+}
+.tip-box .title span:last-child {
+  border-left: 1px solid #f2f2f2;
+}
+.tip-box ul li {
+  height: 36px;
+  line-height: 36px;
+  text-align: center;
+}
+.tip-box ul li span {
+  display: inline-block;
+  width: 50%;
+  border: 1px solid #f2f2f2;
+  text-align: center;
+}
+.tip-box .footer {
+  width: 100%;
+  background: #f6f6f8;
+  height: 36px;
+  line-height: 36px;
+  border-radius: 4px;
+}
+.tip-box .footer span {
+  display: inline-block;
+  width: 50%;
+  border: 1px solid #f2f2f2;
+  text-align: center;
+}
+.top-wrap .ivu-poptip-body {
+  padding: 0;
+}
+.top-wrap .ivu-poptip-arrow:after {
+  border-right-color: #f6f6f8 !important;
+  border-left-color: #f6f6f8 !important;
+}
+.top-wrap .ivu-poptip-body-content {
+  overflow: hidden;
+}
+.top-wrap .ivu-poptip-content {
+  max-height: 400px;
+  overflow-y: hidden;
+  border-radius: 4px;
+}
+.top-wrap .ivu-poptip-content:hover {
+  overflow-y: auto;
+}
